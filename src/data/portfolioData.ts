@@ -8,7 +8,7 @@ export const PERSONAL_INFO = {
   year: "2nd Year B.Tech CSE (2023 - 2027)",
   location: "Punjab, India",
   email: "pandeysalabh9@gmail.com",
-  github: "https://github.com/salabhpandey12345-alt/salabh-portfolio",
+  github: "https://github.com/salabhpandey12345-alt/my_portfolio",
   linkedin: "https://linkedin.com",
   shortBio: "Passionate 2nd-year Computer Science undergraduate dedicated to crafting performant full-stack web applications, mastering algorithmic problem solving (DSA), and exploring practical AI/ML integrations.",
   status: "Open for Summer 2025/2026 Internships & Projects",
@@ -23,7 +23,7 @@ export const PERSONAL_INFO = {
 export const SOCIAL_LINKS: SocialLink[] = [
   {
     name: "GitHub",
-    url: "https://github.com/salabhpandey12345-alt/salabh-portfolio",
+    url: "https://github.com/salabhpandey12345-alt/my_portfolio",
     icon: "Github",
     username: "salabhpandey12345-alt"
   },
@@ -149,7 +149,7 @@ export const PROJECTS: ProjectItem[] = [
       "Digital Signal Processing (DSP)"
     ],
     category: "Embedded & Full Stack IoT",
-    githubUrl: "https://github.com/salabhpandey12345-alt/salabh-portfolio",
+    githubUrl: "https://github.com/salabhpandey12345-alt/my_portfolio",
     demoUrl: "https://heartrate-monitor-iot.dev",
     featured: true,
     accentColor: "from-rose-500 via-red-500 to-cyan-500",

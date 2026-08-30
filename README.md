@@ -1,7 +1,7 @@
 # Salabh Kumar Pandey — Developer Portfolio & IoT Engineering Showcase
 
-[![Live Demo](https://img.shields.io/badge/Portfolio-Live%20Demo-cyan?style=for-the-badge&logo=react)](https://github.com/salabhpandey12345-alt/salabh-portfolio)
-[![GitHub](https://img.shields.io/badge/GitHub-salabhpandey12345--alt-181717?style=for-the-badge&logo=github)](https://github.com/salabhpandey12345-alt/salabh-portfolio)
+[![Live Demo](https://img.shields.io/badge/Portfolio-Live%20Demo-cyan?style=for-the-badge&logo=react)](https://github.com/salabhpandey12345-alt/my_portfolio)
+[![GitHub](https://img.shields.io/badge/GitHub-salabhpandey12345--alt-181717?style=for-the-badge&logo=github)](https://github.com/salabhpandey12345-alt/my_portfolio)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com)
 [![Email](https://img.shields.io/badge/Email-pandeysalabh9%40gmail.com-EA4335?style=for-the-badge&logo=gmail)](mailto:pandeysalabh9@gmail.com)
 
@@ -57,10 +57,10 @@ To run this portfolio locally on your machine:
 
 ```bash
 # 1. Clone this repository
-git clone https://github.com/salabhpandey12345-alt/salabh-portfolio.git
+git clone https://github.com/salabhpandey12345-alt/my_portfolio.git
 
 # 2. Navigate to project directory
-cd salabh-portfolio
+cd my_portfolio
 
 # 3. Install dependencies
 npm install
