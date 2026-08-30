@@ -11,7 +11,7 @@
 
 I am **Salabh Kumar Pandey**, a 2nd-year B.Tech Computer Science and Engineering student at **Lovely Professional University (LPU)** (2023 – 2027).
 
-- 💡 **Core Focus**: High-performance software engineering, Data Structures & Algorithms in C++ (250+ problems solved), Embedded Systems / IoT firmware, and modern full-stack web applications.
+- 💡 **Core Focus**: High-performance software engineering, Data Structures & Algorithms in C++, Embedded Systems / IoT firmware, and modern full-stack web applications.
 - 🎓 **Education**: B.Tech in CSE @ Lovely Professional University (Current CGPA: 7.8/10).
 - 📜 **Certifications**: Certified in **Programming Fundamentals using Python (Part 1 & 2)** by **Infosys Springboard (Infosys Limited)**.
 

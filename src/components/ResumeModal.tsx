@@ -46,7 +46,7 @@ EDUCATION
 
 TECHNICAL SKILLS
 - Languages: Python (Infosys Springboard Certified), C++, C, JavaScript (ES6+), HTML5, CSS3
-- Core Foundations: Data Structures & Algorithms (250+ Solved), Big-O Analysis, OOPs
+- Core Foundations: Data Structures & Algorithms, Big-O Analysis, OOPs
 - Embedded & IoT: C/C++ Firmware, DSP Digital Signal Processing, PPG Biometric Sensors, BLE / MQTT
 - Web & Frameworks: React, Tailwind CSS, Node.js, Express, REST APIs
 - Developer Tools: Git, GitHub, VS Code, Linux CLI

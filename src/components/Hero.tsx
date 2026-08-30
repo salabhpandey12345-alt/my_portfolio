@@ -312,16 +312,16 @@ export const Hero: React.FC<HeroProps> = ({ onOpenResume, onOpenTerminal }) => {
                 {activeTab === 'stats' && (
                   <div className="space-y-3 py-1">
                     <div className="flex items-center justify-between p-2.5 rounded-lg bg-slate-900/60 border border-slate-800">
-                      <span className="text-slate-300">DSA Problems Solved:</span>
-                      <span className="text-cyan-300 font-bold">250+ across LeetCode & GFG</span>
+                      <span className="text-slate-300">Python Certification:</span>
+                      <span className="text-cyan-300 font-bold">Infosys Springboard (Part 1 & 2)</span>
                     </div>
                     <div className="flex items-center justify-between p-2.5 rounded-lg bg-slate-900/60 border border-slate-800">
                       <span className="text-slate-300">Academic Standing:</span>
                       <span className="text-emerald-400 font-bold">2nd Year B.Tech CSE (LPU)</span>
                     </div>
                     <div className="flex items-center justify-between p-2.5 rounded-lg bg-slate-900/60 border border-slate-800">
-                      <span className="text-slate-300">Practical Projects:</span>
-                      <span className="text-indigo-300 font-bold">Full Stack & DSA Tools</span>
+                      <span className="text-slate-300">Focus Areas:</span>
+                      <span className="text-indigo-300 font-bold">Full Stack & Embedded IoT</span>
                     </div>
                     <div className="flex items-center justify-between p-2.5 rounded-lg bg-slate-900/60 border border-slate-800">
                       <span className="text-slate-300">Collaboration:</span>

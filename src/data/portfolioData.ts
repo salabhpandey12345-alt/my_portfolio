@@ -13,10 +13,9 @@ export const PERSONAL_INFO = {
   shortBio: "Passionate 2nd-year Computer Science undergraduate dedicated to crafting performant full-stack web applications, mastering algorithmic problem solving (DSA), and exploring practical AI/ML integrations.",
   status: "Open for Summer 2025/2026 Internships & Projects",
   stats: [
-    { label: "DSA Problems Solved", value: "250+" },
-    { label: "Core Projects", value: "6+" },
-    { label: "Tech Stack Tools", value: "12+" },
-    { label: "Year of Study", value: "2nd Year" },
+    { label: "Python Certification", value: "Infosys" },
+    { label: "Academic Standing", value: "2nd Year" },
+    { label: "Institution", value: "LPU CSE" }
   ]
 };
 
@@ -73,10 +72,10 @@ export const SKILLS: SkillItem[] = [
     name: "DSA (Data Structures & Algorithms)",
     category: "dsa",
     level: 88,
-    experience: "250+ LeetCode / GFG Problems",
+    experience: "Problem Solving & Logic Design",
     iconName: "Binary",
     tags: ["Arrays", "Trees", "Graphs", "Dynamic Programming", "Recursion", "Two Pointers"],
-    description: "Deep problem-solving mindset with continuous practice across Trees, Graphs, Sorting, Binary Search, Dynamic Programming, and Space/Time Complexity analysis."
+    description: "Deep problem-solving mindset with practice across Trees, Graphs, Sorting, Binary Search, Dynamic Programming, and Space/Time Complexity analysis."
   },
   {
     name: "JavaScript (ES6+)",
